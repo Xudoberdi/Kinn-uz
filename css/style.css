@@ -45,8 +45,8 @@ main {
   flex-grow: 1;
 }
 .container {
-  max-width: 100%;
-  width: 1428px;
+  width: 100%;
+  max-width: 1200px;
   margin-left: auto;
   margin-right: auto;
   padding-right: 50px;
@@ -61,10 +61,10 @@ main {
 }
 .nav-list {
   display: flex;
-  margin-right: 13.4rem;
+  margin-right: 10rem;
 }
 .logo {
-  margin-right: 46.9rem;
+  margin-right: 40rem;
 }
 .nav-item {
   list-style: none;
