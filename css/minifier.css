@@ -123,9 +123,10 @@ main {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  position: relative;
-  left: 82rem;
-  top: 46rem;
+}
+.remember {
+  margin-top: 46rem;
+  margin-left: 80rem;
 }
 .hero-info {
   font-family: "Roboto";
@@ -149,7 +150,7 @@ main {
   margin-bottom: 2.4rem;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  width: 119.4rem;
+  width: 44.4rem;
 }
 .hero-link {
   height: 5.6rem;
